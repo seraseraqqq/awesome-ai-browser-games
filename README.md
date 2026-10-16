@@ -58,15 +58,24 @@ PC and console classics recompiled for the web as WebAssembly / WebGL fan projec
 - [Command & Conquer: Generals](https://zadely.com/games/command-and-conquer-generals/) — The 2003 3D real-time strategy classic, ported to WebAssembly. Build bases, command high-tech armies and fight across desert theaters. · 🔥 trending ([play](https://generals.wasm.ltd))
 - [WipEout](https://zadely.com/games/wipeout/) — The 1995 anti-gravity racer, rewritten from scratch in C by PhobosLab and compiled to WebAssembly. Smooth, fast and free. · 🔥 trending ([play](https://phoboslab.org/wipegame/))
 - [Celeste](https://zadely.com/games/celeste/) — The 2018 precision platformer running on .NET WebAssembly, mod loader included. · 🔥 trending ([play](https://gn-math.dev/?id=623))
-- [Skate Rust](https://zadely.com/games/skate-rust/) — Skate 3 skating grafted into a WebAssembly build of the Modern Warfare 2 Rust runtime, with bots and a gun mode. · 🎮 multiplayer ([play](https://global-terror.net))
-- [Black Ops Zombies](https://zadely.com/games/black-ops-zombies/) — Round-based zombie survival in a browser tab. Hold the barricades, buy weapons off the wall and see how many rounds you last. ([play](https://vel.gg/bo1z))
-- [GTA: Vice City](https://zadely.com/games/gta-vice-city/) — Vice City compiled to WebAssembly. Drive the neon streets of 1986 in a browser tab. · 🔥 trending, 💾 needs game files ([play](https://joncodeofficial.github.io/gta-vice-city-wasm))
-- [Halo: Combat Evolved](https://zadely.com/games/halo-combat-evolved/) — Halo CE running in a desktop browser. Best with keyboard and mouse. · 🔥 trending ([play](https://mitchellhynes.com/halo))
-- [Skate 3](https://zadely.com/games/skate-3/) — Port Carverton in a browser tab. An independent Rust engine renders Skate 3 from game data you convert yourself. · 🎮 multiplayer, 📱 touch, 💾 needs game files ([play](https://skate.aaddpp.lol))
+- [A Difficult Game About Climbing](https://zadely.com/games/a-difficult-game-about-climbing/) — Grab holds with your mouse and haul yourself up a wet mountain. One slip and you fall all the way back. ([play](https://gn-math.dev/?id=672))
+- [20 Minutes Till Dawn](https://zadely.com/games/20-minutes-till-dawn/) — Survive twenty minutes of Lovecraftian swarms in a twin-stick roguelite, choosing an upgrade each level. ([play](https://gn-math.dev/?id=819))
+- [CSS Bunnyhop](https://zadely.com/games/css-bhop/) — Air-strafe and scroll-jump through 200+ tiered Source bhop courses, with server-verified times and live servers. ([play](https://bunnyhop.lol))
 - [The Binding of Isaac: Repentance+](https://zadely.com/games/binding-of-isaac/) — Repentance+ recompiled for the web, with items, synergies and Steam Workshop mods intact. · 🎮 multiplayer, built with Claude Opus 5.5 ([play](https://tboi.online/))
+- [Star Wars Jedi Knight: Jedi Academy](https://zadely.com/games/jedi-academy/) — Lightsaber duels in the browser, ported from Raven Software’s official source release. The free demo mission needs no files. ([play](https://jka.virtastic.app/))
+- [Windows 98 Games (Wine-Assembly)](https://zadely.com/games/windows-98-games/) — A Windows 98 style desktop in a tab, with Space Cadet Pinball and other classic games. · built with Claude Code/Codex ([play](https://wine-assembly.berrry.app/))
+- [Red Alert 2: Chrono Divide](https://zadely.com/games/red-alert-2/) — A rebuilt Red Alert 2 engine for the browser, with online multiplayer. You load your own copy of the game files. · 🔥 trending, 🎮 multiplayer, 💾 needs game files ([play](https://game.chronodivide.com/))
+- [Tomb Raider (OpenLara)](https://zadely.com/games/tomb-raider-openlara/) — An open-source Tomb Raider engine. The demo levels run right in the browser. ([play](https://xproger.github.io/OpenLara/))
+- [Black Ops Zombies](https://zadely.com/games/black-ops-zombies/) — Round-based zombie survival in a browser tab. Hold the barricades, buy weapons off the wall and see how many rounds you last. · 🔥 trending ([play](https://vel.gg/bo1z))
+- [Modern Warfare 2](https://zadely.com/games/modern-warfare-2/) — The 2009 MW2 read from its own retail assets and rendered in the browser. Maps include Rust, Derrick and Miami. ([play](https://ovz-game-production.up.railway.app))
+- [Halo: Combat Evolved](https://zadely.com/games/halo-combat-evolved/) — Halo CE running in a desktop browser. Best with keyboard and mouse. · 🔥 trending ([play](https://mitchellhynes.com/halo))
+- [Halo CE Mobile](https://zadely.com/games/halo-ce-mobile/) — Halo CE as an installable app for phones and desktop, with its own matchmaking. Bring your own disc image. · 🎮 multiplayer, 📱 touch, 💾 needs game files ([play](https://hcemobile.com))
+- [CS Surf](https://zadely.com/games/cs-surf/) — Counter-Strike: Source surf rebuilt for the web: no shooting, just momentum. Ranked courses, server-verified times. · 🔥 trending ([play](https://surfd.net))
+- [Skate 3](https://zadely.com/games/skate-3/) — Port Carverton in a browser tab. An independent Rust engine renders Skate 3 from game data you convert yourself. · 🔥 trending, 🎮 multiplayer, 📱 touch, 💾 needs game files ([play](https://skate.aaddpp.lol))
+- [Skate Rust](https://zadely.com/games/skate-rust/) — Skate 3 skating grafted into a WebAssembly build of the Modern Warfare 2 Rust runtime, with bots and a gun mode. · 🎮 multiplayer ([play](https://global-terror.net))
 - [PES 6](https://zadely.com/games/pes-6/) — The PSP version of PES 6, recompiled to run in a browser with online rooms and controller support. · 🎮 multiplayer, 📱 touch ([play](https://pes6.optijuegos.net))
 - [GTA 5](https://zadely.com/games/gta-5/) — A working WebAssembly build of the real GTA V engine, streaming the game data itself. A mirror of the anonymously made PlayGTA5 project. ([play](https://gta.deloskiyt.pl/))
-- [Halo CE Mobile](https://zadely.com/games/halo-ce-mobile/) — Halo CE as an installable app for phones and desktop, with its own matchmaking. Bring your own disc image. · 🎮 multiplayer, 📱 touch, 💾 needs game files ([play](https://hcemobile.com))
+- [GTA: Vice City](https://zadely.com/games/gta-vice-city/) — Vice City compiled to WebAssembly. Drive the neon streets of 1986 in a browser tab. · 🔥 trending, 💾 needs game files ([play](https://joncodeofficial.github.io/gta-vice-city-wasm))
 - [The Simpsons: Hit & Run](https://zadely.com/games/simpsons-hit-and-run/) — Drive around Springfield in the 2003 cult classic, ported to WebAssembly. · 💾 needs game files ([play](https://shar-wasm.cjoseph.workers.dev/?skipmovie))
 - [Quake](https://zadely.com/games/quake/) — The 1996 shooter in a browser tab. Fast movement, dark castles, rocket jumps. ([play](https://q1.pieter.com))
 - [Quake II](https://zadely.com/games/quake-2/) — Quake II on the web: fight through the Strogg base with the railgun and BFG. ([play](https://q2.pieter.com))
@@ -76,24 +85,16 @@ PC and console classics recompiled for the web as WebAssembly / WebGL fan projec
 - [Half-Life](https://zadely.com/games/half-life/) — Half-Life running on the Xash3D engine in the browser. Back to Black Mesa. · 🔥 trending, 💾 needs game files ([play](https://pixelsuft.github.io/hl/))
 - [Counter-Strike 1.6](https://zadely.com/games/counter-strike-1-6/) — webXash runs Half-Life and CS 1.6 content in a browser tab. · 💾 needs game files ([play](https://x8bitrain.github.io/webXash/))
 - [Diablo](https://zadely.com/games/diablo/) — The original Diablo in your browser. Descend beneath Tristram. The shareware version is free to play. ([play](https://johnimril.github.io/diablo_web/))
-- [Star Wars Jedi Knight: Jedi Academy](https://zadely.com/games/jedi-academy/) — Lightsaber duels in the browser, ported from Raven Software's official source release. The free demo mission needs no files. ([play](https://jka.virtastic.app/))
-- [Windows 98 Games (Wine-Assembly)](https://zadely.com/games/windows-98-games/) — A Windows 98 style desktop in a tab, with Space Cadet Pinball and other classic games. · built with Claude Code/Codex ([play](https://wine-assembly.berrry.app/))
-- [Red Alert 2: Chrono Divide](https://zadely.com/games/red-alert-2/) — A rebuilt Red Alert 2 engine for the browser, with online multiplayer. You load your own copy of the game files. · 🔥 trending, 🎮 multiplayer, 💾 needs game files ([play](https://game.chronodivide.com/))
-- [Tomb Raider (OpenLara)](https://zadely.com/games/tomb-raider-openlara/) — An open-source Tomb Raider engine. The demo levels run right in the browser. ([play](https://xproger.github.io/OpenLara/))
-- [Modern Warfare 2](https://zadely.com/games/modern-warfare-2/) — The 2009 MW2 read from its own retail assets and rendered in the browser. Maps include Rust, Derrick and Miami. ([play](https://ovz-game-production.up.railway.app))
-- [CS Surf](https://zadely.com/games/cs-surf/) — Counter-Strike: Source surf rebuilt for the web: no shooting, just momentum. Ranked courses, server-verified times. · 🔥 trending ([play](https://surfd.net))
-- [20 Minutes Till Dawn](https://zadely.com/games/20-minutes-till-dawn/) — Survive 20 minutes of escalating waves. Pick weapons, stack upgrades, carve through the swarm. ([play](https://20minutes.example.com))
-- [Oyster Arcade](https://zadely.com/games/oyster-arcade/) — A CRT arcade cabinet with four playable games and a top-10 board for each. · built with Claude Code ([play](https://arcade.oyster.to/))
 
 ## ⚠️ Status watch: ports that went offline
 
 Browser ports are fragile — hosts go down and DMCA notices happen. Each of these has a status page on Zadely with playable alternatives:
 
-- [Hedgewars](https://zadely.com/games/hedgewars/) — Turn-based artillery with hedgehogs, like Worms. Aim, adjust for wind, fire.
-- [Dragon Ball Z: Budokai Tenkaichi 3](https://zadely.com/games/dbz-budokai-tenkaichi-3/) — The PS2 arena fighter in a browser tab, with the site claiming 161+ fighters and 36 destructible arenas.
 - [Crash Team Racing Turbocharged](https://zadely.com/games/crash-team-racing/) — The 1999 PS1 kart racer decompiled and rebuilt with widescreen support, custom cups and four-player split screen.
-- [Black Ops 2](https://zadely.com/games/black-ops-2/) — A browser shooter project inspired by Black Ops 2, listed in the viral October thread of browser games.
 - [Claude of Duty: Vibe Slops II](https://zadely.com/games/claude-of-duty/) — A fan recreation of Black Ops II multiplayer in Three.js. Despite the name, it was not made with Claude.
+- [Dragon Ball Z: Budokai Tenkaichi 3](https://zadely.com/games/dbz-budokai-tenkaichi-3/) — The PS2 arena fighter in a browser tab, with the site claiming 161+ fighters and 36 destructible arenas.
+- [Black Ops 2](https://zadely.com/games/black-ops-2/) — A browser shooter project inspired by Black Ops 2, listed in the viral October thread of browser games.
+- [Hedgewars](https://zadely.com/games/hedgewars/) — Turn-based artillery with hedgehogs, like Worms. Aim, adjust for wind, fire.
 
 ## About this list
 
