@@ -150,6 +150,7 @@ These games use AI during play. That is a separate claim from having AI-written 
 
 AI involvement varies here. A Three.js engine, an AI-assisted disclosure or shared ownership with Zadely is not enough to label a game as mostly AI-authored. GameHubs maintains several of these sites under the same ownership as Zadely; the guides disclose that relationship.
 
+- [Color Block Jam](https://color-block-jam.online/) — Free browser color-matching puzzle with level goals and combo merges. · 📱 touch
 - [Threejs-Punk Drive](https://zadely.com/games/threejs-punk-drive/) — Explore a neon city by car, drift and use nitro. WebGPU and a capable GPU are required; touch controls target recent high-end phones. · 📱 touch · WebGPU · [website](https://www.threejspunk.com/)
 - [Tailgrab](https://zadely.com/games/tailgrab/) — Animal-pro skateboarding with ollies, flips, grabs, grinds, multiplayer parks and a park builder. Keyboard layouts, gamepad and touch inputs are documented. · 📱 touch · [website](https://tailgrab.io/)
 - [STARLING](https://zadely.com/games/starling/) — The space word game currently published at Krilliononline.com: seven timed prompts with preset rarity scores. Not a connection to the original Krillion service. · 📱 touch · [website](https://krilliononline.com/)
